@@ -1,0 +1,10 @@
+C:\Users\Hossein\Desktop\C# - Practice\MyCalculator_Example\MyCalculator_Example\bin\Debug\MyCalculator_Example.exe.config
+C:\Users\Hossein\Desktop\C# - Practice\MyCalculator_Example\MyCalculator_Example\bin\Debug\MyCalculator_Example.exe
+C:\Users\Hossein\Desktop\C# - Practice\MyCalculator_Example\MyCalculator_Example\bin\Debug\MyCalculator_Example.pdb
+C:\Users\Hossein\Desktop\C# - Practice\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.csprojAssemblyReference.cache
+C:\Users\Hossein\Desktop\C# - Practice\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.Form1.resources
+C:\Users\Hossein\Desktop\C# - Practice\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.Properties.Resources.resources
+C:\Users\Hossein\Desktop\C# - Practice\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.csproj.GenerateResource.cache
+C:\Users\Hossein\Desktop\C# - Practice\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\Desktop\C# - Practice\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.exe
+C:\Users\Hossein\Desktop\C# - Practice\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.pdb
